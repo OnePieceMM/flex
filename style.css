@@ -34,6 +34,7 @@ ul>li{
     width: 800px;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 10px;
 }
 .content>aside{
     background: black;
